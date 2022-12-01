@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ayasalem01
 - 👀 I’m interested in Business analysis
 - 🌱 I’m  learning more in my domain and enlarging my knowledge in the IT field
-- 💞️ I’m currently looking for an End of study internship
 - I am eager to learn more and gain more experience 
 - 📫 You can reach me through my email: ayasalemprofessional@gmail.com
 Or through my [LinkedIn account](https://www.linkedin.com/in/aya-salem-a8a824167/)
