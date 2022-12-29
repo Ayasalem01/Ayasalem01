@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ayasalem01
-- 👀 I’m a ✨ Business analytics and IT student✨
-- 🌱  eager to learn more and gain more experience 
+- 👀 I’m a ✨ Business analytics and IT student✨ 
 - 📫 You can reach me through my email: ayasalemprofessional@gmail.com
 Or through my [LinkedIn account](https://www.linkedin.com/in/aya-salem-a8a824167/)
 
