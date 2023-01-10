@@ -3,7 +3,7 @@
 <h3 align="center">Business analytics and IT student at TBS</h3>
 
 <h3 align="left">📫 You can reach me through my email: ayasalemprofessional@gmail.com
-Or through my [LinkedIn account](https://www.linkedin.com/in/aya-salem-a8a824167/)</h3>
+Or through my [LinkedIn account](https://www.linkedin.com/in/aya-salem-a8a824167/) </h3>
 <p align="left">
 </p>
 
